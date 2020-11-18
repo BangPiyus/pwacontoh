@@ -1,0 +1,83 @@
+{
+  "produk":[{
+  "id": 1,
+  "name": "Karpinsk",
+  "category": "Indigo"
+}, {
+  "id": 2,
+  "name": "Puutura",
+  "category": "Fuscia"
+}, {
+  "id": 3,
+  "name": "Phra Pradaeng",
+  "category": "Turquoise"
+}, {
+  "id": 4,
+  "name": "Al Khānkah",
+  "category": "Yellow"
+}, {
+  "id": 5,
+  "name": "Lile",
+  "category": "Pink"
+}, {
+  "id": 6,
+  "name": "Punkalaidun",
+  "category": "Violet"
+}, {
+  "id": 7,
+  "name": "San Francisco",
+  "category": "Maroon"
+}, {
+  "id": 8,
+  "name": "Oslo",
+  "category": "Maroon"
+}, {
+  "id": 9,
+  "name": "Kadubadak",
+  "category": "Crimson"
+}, {
+  "id": 10,
+  "name": "Tangwang",
+  "category": "Violet"
+}, {
+  "id": 11,
+  "name": "Qingyun",
+  "category": "Yellow"
+}, {
+  "id": 12,
+  "name": "Stockholm",
+  "category": "Crimson"
+}, {
+  "id": 13,
+  "name": "Laowobao",
+  "category": "Puce"
+}, {
+  "id": 14,
+  "name": "Kastsyukowka",
+  "category": "Purple"
+}, {
+  "id": 15,
+  "name": "Atlanta",
+  "category": "Orange"
+}, {
+  "id": 16,
+  "name": "Sotíra",
+  "category": "Orange"
+}, {
+  "id": 17,
+  "name": "Lushuihe",
+  "category": "Red"
+}, {
+  "id": 18,
+  "name": "Malasila",
+  "category": "Aquamarine"
+}, {
+  "id": 19,
+  "name": "Langqi",
+  "category": "Violet"
+}, {
+  "id": 20,
+  "name": "Toyooka",
+  "category": "Green"
+}]
+}
